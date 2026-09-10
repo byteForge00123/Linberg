@@ -1,7 +1,5 @@
 # LINDBERG
 
-<div align="center">
-
 ![Angular](https://img.shields.io/badge/Angular-18-DD0031?style=flat-square&logo=angular)
 ![Laravel](https://img.shields.io/badge/Laravel-12-F9322C?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-Ready-4479A1?style=flat-square&logo=mysql)
@@ -9,8 +7,6 @@
 ![Lucide Angular](https://img.shields.io/badge/Lucide-Angular-18c7ff?style=flat-square&logo=lucide)
 ![RxJS](https://img.shields.io/badge/RxJS-7.8-B7178C?style=flat-square&logo=reactivex)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
-</div>
 
 ## A quiet table. A thoughtful workflow.
 

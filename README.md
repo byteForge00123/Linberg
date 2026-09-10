@@ -55,15 +55,15 @@ linberg/
 ### Start the backend
 
 ```powershell
-Set-Location "C:\Users\venus\OneDrive\Desktop\linberg\backend"
+Set-Location "C:\Users\forge\Desktop\linberg\backend"
 C:\xampp\php\php.exe artisan serve --host 127.0.0.1 --port 8000
 ```
 
 ### Start the frontend
 
 ```powershell
-Set-Location "C:\Users\venus\OneDrive\Desktop\linberg\frontend"
-& "C:\Users\venus\AppData\Roaming\nvm\nodejs\node-v18.20.8-win-x64\node.exe" ".\node_modules\@angular\cli\bin\ng.js" serve --host 127.0.0.1 --port 4200
+Set-Location "C:\Users\forge\Desktop\linberg\frontend"
+& "C:\Users\forge\AppData\Roaming\nvm\nodejs\node-v18.20.8-win-x64\node.exe" ".\node_modules\@angular\cli\bin\ng.js" serve --host 127.0.0.1 --port 4200
 ```
 
 ### Open the app

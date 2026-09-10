@@ -12,9 +12,13 @@
 
 </div>
 
-A professional business management web application.
+## A quiet table. A thoughtful workflow.
 
-LINDBERG is a polished business management starter template designed for modern operations, sales, and customer lifecycle workflows. It combines a premium Angular dashboard frontend with a lightweight Laravel backend and MySQL-ready data model, making it suitable as a practical foundation for CRM, business operations, or internal management apps.
+LINDBERG is a premium business management starter built for teams who value clarity, momentum, and deliberate decisions. It blends a polished Angular dashboard experience with a lightweight Laravel backend and MySQL-ready foundation to create a modern operations workspace that feels refined, focused, and genuinely usable from day one.
+
+Inspired by the calm, premium atmosphere of a well-curated dining experience, LINDBERG approaches business operations with the same principles: intentional design, smooth flow, and meaningful detail. The result is a professional starter template for CRM, sales, service, and internal management workflows that feels more like a product than a demo.
+
+From the first glance to the final workflow, the experience is designed to feel elevated — clean, confident, and ready for real-world use.
 
 ## Overview
 
@@ -99,4 +103,22 @@ This project is intentionally structured as a professional starter template rath
 
 ## License
 
-MIT
+This project is licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
